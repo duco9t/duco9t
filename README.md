@@ -3,7 +3,7 @@
 <h3 align="center">I am a third-year student majoring in Information Technology at Vietnam Aviation Academy</h3>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-<img align="right" alt="Coding" width="570" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fyhodj0dgo73vnsv8bpmt7b471oe3ufyxbhnysji&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="520" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fyhodj0dgo73vnsv8bpmt7b471oe3ufyxbhnysji&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <p align="center" width="100" height="100"> <img width="200" src="https://komarev.com/ghpvc/?username=duco9t&label=Profile%20views&color=0e75b6&style=flat" alt="duco9t" /></p>
