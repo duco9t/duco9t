@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fyhodj0dgo73vnsv8bpmt7b471oe3ufyxbhnysji&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Frontend Developer, Backend Developer, Computer Graphics, Network Administration, Mobile Device Programming**
+- 🌱 I’m currently learning **Frontend Developer, Backend Developer, Computer Graphics, Network Administration, Mobile Device Programming, Blockchain, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/duco9t](https://github.com/duco9t)
 
