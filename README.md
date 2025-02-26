@@ -1,5 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dung Nguyen</h1>
+<h4 align="center">You can call me Duco</h4>
 <h3 align="center">I am a 4th year student majoring in Information Technology at Viet Nam Aerospace University</h3>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
