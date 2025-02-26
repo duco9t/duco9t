@@ -30,7 +30,7 @@
 
 <p align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=duco9t&show_icons=true&theme=radical" alt="duco9t GitHub Stats"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duco9t&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
